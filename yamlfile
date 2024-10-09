@@ -1,0 +1,10 @@
+yaml:
+  keyinteger: 88
+  keydecimal: 2.99
+  keystring: "Purplelife" 
+
+
+  multilineString:
+    description: |
+        yaml rocks.
+        Greatest code on earth.
